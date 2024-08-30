@@ -2,6 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pires-oliveira-6437b0256/)
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=landon-2003&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landon-2003)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus Conhecimentos!
 
